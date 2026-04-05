@@ -5,7 +5,7 @@ void usa(){
     cout<<"you are in usa"<<endl;
 
 }
-void india(){
+void indias(){
      cout<<"good morning"<<endl;
     cout<<"you are in india"<<endl;
 }
@@ -13,7 +13,7 @@ int main(){
     
     cout<<"you are in main"<<endl;
     usa();
-    india();
+    indias();
    
 
 } 
